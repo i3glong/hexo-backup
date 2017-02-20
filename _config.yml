@@ -74,5 +74,6 @@ deploy:
 
 backup:
     type: git
+    message: update source
     repository:
        github: git@github.com:i3glong/hexo-backup.git,master
